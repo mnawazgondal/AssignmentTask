@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AN-CRM", "AN-CRM\AN-CRM.csproj", "{57512D2B-D364-44AA-AE59-E02445FA4B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57512D2B-D364-44AA-AE59-E02445FA4B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57512D2B-D364-44AA-AE59-E02445FA4B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57512D2B-D364-44AA-AE59-E02445FA4B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57512D2B-D364-44AA-AE59-E02445FA4B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D36C3289-8F6C-42B7-838E-B4808715C4DF}
+	EndGlobalSection
+EndGlobal

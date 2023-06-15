@@ -1,0 +1,387 @@
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.xml
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\AN-CRM.styles.css
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Personel Project\AN-CRM\AN-CRM\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.xml
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\AN-CRM.styles.css
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\personal Git lab Projects\NR-CRM\NR-Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.xml
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\AN-CRM.styles.css
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\personal Git lab Projects\SecureFileUpload\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.xml
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\AN-CRM.styles.css
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AssignmentTask\SecureFileUpload_Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.xml
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\scopedcss\bundle\AN-CRM.styles.css
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+D:\Personel Project\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.StaticWebAssets.xml
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.exe
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.deps.json
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.json
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\AN-CRM.pdb
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.AssemblyInfo.cs
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\staticwebassets\AN-CRM.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.csproj.CopyComplete
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.dll
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.pdb
+C:\Users\DELL\Downloads\AssignmentTask\AssignmentTask\Backend\AN-CRM\obj\Debug\netcoreapp3.1\AN-CRM.genruntimeconfig.cache
